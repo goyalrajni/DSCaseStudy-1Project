@@ -15,9 +15,14 @@ Assignment
   should appear as a sentence or two before or after the code chunk.    
   Even though you will not be hiding the code chunks (so that I can    
   see the code), you need to pretend like the client can’t see them.
-- Code to answer the five questions above (plus the answers) in the    same R Markdown file.
-- Clear answers to the questions, including interpretation of    the plots.
+- Code to answer the five questions above (plus the answers) in the    
+  same R Markdown file.
+- Clear answers to the questions, including interpretation of    
+  the plots.
 - Conclusion to the project. Summarize your findings from    
   this exercise.
 - The file must be readable in GitHub – 5 points off if I have to 
-  download the file to read it! In other words, don’t forget to keep    the md file!!
+  download the file to read it! In other words, don’t forget to keep    
+  the md file!!
+
+FILE TREE STRUCTURE DEFINED---------------------------    ## -- DataAnalysis    ##    |__Question1.RMD    ##    |__Question2.RMD    ##    |__Question3.RMD    ##    |__Question4.RMD    ##    |__Question5.RMD    ## -- DataCleanup    ##    |__CleanEducation.RMD    ##    |__CleanProduct.RMD    ## -- DataLoad    ##    |__Education.csv    ##    |__LoadEducation.RMD    ##    |__LoadProduct.RMD    ##    |__Products.csv    ## -- MSDS6306_Week6CaseStudy.Rproj    ## -- Paper    ##    |__Afrye_Week6CaseStudy.md    ##    |__Afrye_Week6CaseStudy.RMD    ##    |__Afrye_Week6CaseStudy_files    ##       |__figure-markdown_strict    ##          |__Q4_DensityPlotLogTransformed-1.png    ##          |__Q4_DensityPlotRaw-1.png    ## -- README.md    ## -- README.rmd    ## -- RResources    ##    |__T
