@@ -1,9 +1,9 @@
 Assignment
 ----------
 
--   Deliverable: Markdown file uploaded to GitHub containing the    
+- Deliverable: Markdown file uploaded to GitHub containing the    
     following
--   Introduction to the project. The introduction should not start with    
+- Introduction to the project. The introduction should not start with    
     “For my project I …”. The introduction needs to be written as if you    
     are presenting the work to someone who has given you the data to    
     analyze and wants to understand the result. In other words, pretend    
