@@ -1,5 +1,6 @@
 Assignment
 ----------
+
 -   Deliverable: Markdown file uploaded to GitHub containing the    
     following
 -   Introduction to the project. The introduction should not start with    
