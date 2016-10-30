@@ -57,11 +57,11 @@ ____________________________________________________________
 ## > download(GDPURL, destfile = "GrossDomesticProduct.csv")
 ## 
 ## > list.files()
-##  [1] "Analysis"                   "Case-Study+1.pdf"          
-##  [3] "DSCaseStudy-1.html"         "DSCaseStudy-1.md"          
-##  [5] "DSCaseStudy-1.Rmd"          "DSCaseStudy-1_files"       
-##  [7] "DSCaseStudy-1Project.Rproj" "Education.csv"             
-##  [9] "GrossDomesticProduct.csv"   "MakeFile.R"                
+## [1] "Analysis"                   "Case-Study+1.pdf"          
+## [3] "DSCaseStudy-1.html"         "DSCaseStudy-1.md"          
+## [5] "DSCaseStudy-1.Rmd"          "DSCaseStudy-1_files"       
+## [7] "DSCaseStudy-1Project.Rproj" "Education.csv"             
+## [9] "GrossDomesticProduct.csv"  
 ## 
 ## > GDPRaw <- read.csv("GrossDomesticProduct.csv", stringsAsFactors = FALSE, 
 ## +     header = FALSE)
@@ -513,11 +513,11 @@ ____________________________________________________________
 ## > download(educURL, destfile = "Education.csv")
 ## 
 ## > list.files()
-##  [1] "Analysis"                   "Case-Study+1.pdf"          
-##  [3] "DSCaseStudy-1.html"         "DSCaseStudy-1.md"          
-##  [5] "DSCaseStudy-1.Rmd"          "DSCaseStudy-1_files"       
-##  [7] "DSCaseStudy-1Project.Rproj" "Education.csv"             
-##  [9] "GrossDomesticProduct.csv"   "MakeFile.R"                
+## [1] "Analysis"                   "Case-Study+1.pdf"          
+## [3] "DSCaseStudy-1.html"         "DSCaseStudy-1.md"          
+## [5] "DSCaseStudy-1.Rmd"          "DSCaseStudy-1_files"       
+## [7] "DSCaseStudy-1Project.Rproj" "Education.csv"             
+## [9] "GrossDomesticProduct.csv"  
 ## 
 ## > EducationRaw <- read.csv("Education.csv", stringsAsFactors = FALSE, 
 ## +     header = TRUE)

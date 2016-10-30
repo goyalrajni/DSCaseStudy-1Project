@@ -39,6 +39,7 @@ ____________________________________________
     library(knitr)
 
 ```{r setup, include=FALSE}
+knitr::opts_chunk$set(root.dir ="~/DsCaseStudy-1Project")
 knitr::opts_chunk$set(echo = FALSE)
 library(downloader)
 library(dplyr)
@@ -53,12 +54,12 @@ ____________________________________________________________
 ### GDP Data: Download and tidy up the data
 
 ```{r}
-source('C:/DSCaseStudy-1Project/Analysis/Data/GDPData.R', echo = TRUE)
+source('./Analysis/Data/GDPData.R', echo = TRUE)
 ```
 ### Income Data: Download and tidy up the data
 
 ```{r}
-source('C:/DSCaseStudy-1Project/Analysis/Data/IncomeData.R', echo = TRUE)
+source('./Analysis/Data/IncomeData.R', echo = TRUE)
 ```
 
 
@@ -69,7 +70,7 @@ ____________________________
 ### Merging of the GDP and the Income Data sets
 
 ```{r}
-source('C:/DSCaseStudy-1Project/Analysis/Data/MergeData.R', echo = TRUE)
+source('./Analysis/Data/MergeData.R', echo = TRUE)
 ```
 
 #### Question-1 : Merge the data based on the country shortcode. How many of the IDs match?
