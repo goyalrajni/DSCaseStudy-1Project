@@ -25,6 +25,7 @@ Assignment
 - The file must be readable in GitHub – 5 points off if I have to 
   download the file to read it! In other words, don’t forget to keep    
   the md file!!
+  
 
 FILE STRUCTURE
 --------------
@@ -43,4 +44,4 @@ FILE STRUCTURE
 ## -- DSCaseStudy-1.rmd    
 ## -- README.md    
 ## -- Education.csv   
-## -- GrossDomesTicProduct.csv
+## -- GrossDomesticProduct.csv
