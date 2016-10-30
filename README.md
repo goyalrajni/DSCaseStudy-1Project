@@ -34,23 +34,13 @@ FILE STRUCTURE
 ##    |__IncomeData.R    
 ##    |__MergeData.R    
 ##    |__MakeFile.R    
-## -- DataCleanup    
-##    |__CleanEducation.RMD    
-##    |__CleanProduct.RMD    
-## -- DataLoad    
-##    |__Education.csv    
-##    |__LoadEducation.RMD    
-##    |__LoadProduct.RMD    
-##    |__Products.csv    
-## -- MSDS6306_Week6CaseStudy.Rproj   
-## -- Paper    
-##    |__Afrye_Week6CaseStudy.md    
-##    |__Afrye_Week6CaseStudy.RMD    
-##    |__Afrye_Week6CaseStudy_files    
-##       |__figure-markdown_strict    
-##          |__Q4_DensityPlotLogTransformed-1.png    
-##          |__Q4_DensityPlotRaw-1.png    
+## -- DSCaseStudy-1_files    
+##    |__figure.png    
+##    |__figure2.png    
+## -- CaseStudy+1.pdf 
+## -- DSCaseStudy-1.html   
+## -- DSCaseStudy-1.md    
+## -- DSCaseStudy-1.rmd    
 ## -- README.md    
-## -- README.rmd    
-## -- RResources    
-##    |__T
+## -- Education.csv   
+## -- GrossDomesTicProduct.csv
