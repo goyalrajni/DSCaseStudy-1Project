@@ -29,4 +29,8 @@ Assignment
 FILE STRUCTURE
 --------------
 
-## -- DataAnalysis    ##    |__Question1.RMD    ##    |__Question2.RMD    ##    |__Question3.RMD    ##    |__Question4.RMD    ##    |__Question5.RMD    ## -- DataCleanup    ##    |__CleanEducation.RMD    ##    |__CleanProduct.RMD    ## -- DataLoad    ##    |__Education.csv    ##    |__LoadEducation.RMD    ##    |__LoadProduct.RMD    ##    |__Products.csv    ## -- MSDS6306_Week6CaseStudy.Rproj    ## -- Paper    ##    |__Afrye_Week6CaseStudy.md    ##    |__Afrye_Week6CaseStudy.RMD    ##    |__Afrye_Week6CaseStudy_files    ##       |__figure-markdown_strict    ##          |__Q4_DensityPlotLogTransformed-1.png    ##          |__Q4_DensityPlotRaw-1.png    ## -- README.md    ## -- README.rmd    ## -- RResources    ##    |__T
+## -- DataAnalysis
+##    |__Question1.RMD    
+##    |__Question2.RMD    
+##    |__Question3.RMD    
+##    |__Question4.RMD    ##    |__Question5.RMD    ## -- DataCleanup    ##    |__CleanEducation.RMD    ##    |__CleanProduct.RMD    ## -- DataLoad    ##    |__Education.csv    ##    |__LoadEducation.RMD    ##    |__LoadProduct.RMD    ##    |__Products.csv    ## -- MSDS6306_Week6CaseStudy.Rproj    ## -- Paper    ##    |__Afrye_Week6CaseStudy.md    ##    |__Afrye_Week6CaseStudy.RMD    ##    |__Afrye_Week6CaseStudy_files    ##       |__figure-markdown_strict    ##          |__Q4_DensityPlotLogTransformed-1.png    ##          |__Q4_DensityPlotRaw-1.png    ## -- README.md    ## -- README.rmd    ## -- RResources    ##    |__T
